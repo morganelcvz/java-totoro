@@ -1,0 +1,32 @@
+body {
+    background-color: #dedede;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.toto_section {
+    background: #fff;
+    padding: 10px;
+    border-radius:20px;
+    width: 60%;
+    text-align:center;
+}
+
+.mycolor button {
+    padding:15px;
+    border:0px;
+    background-color:grey;
+    border-radius:10px;
+    cursor:pointer;
+    color:#fff;
+    font-weight:bold;
+    text-transform: uppercase;
+    margin:10px 0px;
+}
+
+.titre-toto {
+    font-family: arial;
+    font-size:2rem;
+    padding:20px 0px;
+}
